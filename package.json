@@ -22,5 +22,9 @@
   "homepage": "https://github.com/apark105/react-prototypes#readme",
   "devDependencies": {
     "concurrently": "^4.1.0"
+  },
+  "dependencies": {
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
   }
 }
