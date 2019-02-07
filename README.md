@@ -1,2 +1,2 @@
-# ReduxPrototype
-Redux Prototype
+# Redux
+A project to practice Redux
